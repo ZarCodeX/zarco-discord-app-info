@@ -1,6 +1,6 @@
-# Zarco Discord Bot Overview
+# Zarco Discord App Overview
 
-**Zarco** is a powerful and versatile Discord bot built to streamline server management, automate common tasks, and enhance community interaction. It leverages modern Discord interaction features such as **slash commands**, **buttons**, **modals**, and **select menus**, eliminating the need for outdated prefix commands and delivering a clean, intuitive user experience.
+**Zarco** is a powerful and versatile Discord App built to streamline server management, automate common tasks, and enhance community interaction. It leverages modern Discord interaction features such as **slash commands**, **buttons**, **modals**, and **select menus**, eliminating the need for outdated prefix commands and delivering a clean, intuitive user experience.
 
 ---
 
@@ -12,12 +12,12 @@ Design, edit, and share rich Discord embeds directly through an interactive inte
 ---
 
 ### 🎁 Giveaway Management
-Host giveaways with interactive buttons and real-time tracking. Zarco handles entries, automatically draws winners, and prevents alt or bot abuse. All processes are handled through slash commands and buttons to maintain a seamless experience without spammy text commands.
+Host giveaways with interactive buttons and real-time tracking. Zarco handles entries, automatically draws winners, and prevents alt or app abuse. All processes are handled through slash commands and buttons to maintain a seamless experience without spammy text commands.
 
 ---
 
 ### 📬 Modmail System
-Allow members to contact server staff privately through modals and DMs. Incoming messages are routed to dedicated staff channels while preserving privacy. Unlike traditional modmail bots, Zarco avoids storing message content and emphasizes in-server interaction and transparency.
+Allow members to contact server staff privately through modals and DMs. Incoming messages are routed to dedicated staff channels while preserving privacy. Unlike traditional modmail apps, Zarco avoids storing message content and emphasizes in-server interaction and transparency.
 
 ---
 
@@ -32,7 +32,7 @@ Automatically creates a private voice channel for a user when they join a design
 ---
 
 ### 😎 Emoji Management
-Upload, clone, rename, or delete emojis directly from the bot without ever needing to visit Discord settings. All actions are performed in real-time through the Discord API with no data storage on external servers, making it fast and privacy-safe.
+Upload, clone, rename, or delete emojis directly from the app without ever needing to visit Discord settings. All actions are performed in real-time through the Discord API with no data storage on external servers, making it fast and privacy-safe.
 
 ---
 
@@ -47,7 +47,7 @@ All tools are accessible via slash commands and built for ease of use.
 ---
 
 ### 🎭 Role Assignment System
-Supports both:
+Supports apph:
 - **Autoroles** (automatically assigning roles to new members)
 - **Interactive role menus** using select menus for users to self-assign roles
 Designed for communities that require easy access to roles like languages, interests, or notification pings.
@@ -86,7 +86,7 @@ An advanced, interactive counting game designed to boost server engagement. Mode
 
 **How it works:**
 - Users participate by sending the next number in sequence in a specific channel.
-- The bot automatically validates each message.
+- The app automatically validates each message.
 - Invalid or duplicate entries are deleted.
 - Milestones (e.g., every 100 counts) are highlighted to increase excitement and engagement.
 
