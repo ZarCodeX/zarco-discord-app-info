@@ -7,7 +7,7 @@
 ## 🔧 Key Features
 
 ### 📦 Custom Embed Builder
-Design, edit, and share rich Discord embeds directly through an interactive interface. Supports exporting and importing embeds, allowing for quick replication and editing across servers or channels. Designed with accessibility in mind, this tool helps non-technical users build stunning messages without writing JSON code.
+Design, edit, and share rich Discord embeds directly through an interactive interface. Supports exporting and importing embeds, allowing for quick replication and editing across servers or channels.
 
 ---
 
@@ -26,7 +26,7 @@ Automatically welcome new users and send departure messages to a specified chann
 
 ---
 
-### 🔊 Private Voice Channels
+### 🔊 Private Voice Channels (PVCs)
 Automatically creates a private voice channel for a user when they join a designated "lobby" voice channel. The private VC is deleted once empty, reducing clutter. Offers full customization of channel naming, user limits, and permissions.
 
 ---
@@ -47,9 +47,9 @@ All tools are accessible via slash commands and built for ease of use.
 ---
 
 ### 🎭 Role Assignment System
-Supports apph:
+Supports app:
 - **Autoroles** (automatically assigning roles to new members)
-- **Interactive role menus** using select menus for users to self-assign roles
+- Allow mods to setup autorole using role select menu.
 Designed for communities that require easy access to roles like languages, interests, or notification pings.
 
 ---
@@ -66,8 +66,7 @@ Zarco does not store message content, ensuring user privacy while keeping staff 
 
 ### 🛡️ Moderation Tools
 Includes a complete set of moderation commands:
-- `/ban`, `/kick`, `/timeout`, `/warn`
-- Supports reason logging, expiration tracking, and auto-delete for expired timeouts
+- `/ban`, `/timeout`, `/warn` etc
 These tools are simple for staff to use and respect Discord’s permissions model.
 
 ---
@@ -106,10 +105,8 @@ All games are played via buttons and interaction menus, ensuring a smooth, mobil
 ---
 
 ## 📌 Key Benefits
-- No data storage: 100% real-time API interaction with no databases
 - Fully interaction-based: built with Discord’s modern features
 - Privacy-respecting: avoids logging message content
-- Modular and customizable: enable or disable features per your needs
 - Designed for performance and scalability in active communities
 
 ---
